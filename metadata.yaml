@@ -1,4 +1,8 @@
 _repo: In-Pastures-Green_48318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McArthur, Peter
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44631'
     url: http://www.gutenberg.org/2009/agents/44631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48318#In-Pastures-Green
 gutenberg_issued: '2015-02-20'
 gutenberg_type: Text
 identifiers:
